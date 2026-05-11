@@ -5,4 +5,4 @@ seaborn
 matplotlib
 scipy
 scikit-learn
-statsmodelsgit
+statsmodels
